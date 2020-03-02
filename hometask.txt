@@ -1,1 +1,11 @@
 Различий в ветках master и demo нет.
+Коммитов 11. 
+Комментарии:
+a547bae(my commit)
+209c690(Merge branch 'boots_buttons')
+270434d(Merge remote-tracking branch 'origin/hat')
+4377410(Merge remote-tracking branch 'origin/buttons' into boots_buttons)
+6f2cdb5(Merge remote-tracking branch 'origin/boots' into boots_buttons)
+1db7b7a(dots)
+152f859(boots)
+949c4a1(heat added)
